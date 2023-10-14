@@ -39,4 +39,4 @@ text = "
 	</script>
 	"
 
-[connection signal="pressed" from="CenterContainer/VBoxContainer/ButtonTut" to="." method="_on_Button2_pressed"]
+[connection signal="pressed" from="CenterContainer/VBoxContainer/ButtonTut" to="." method="_on_ButtonTut_pressed"]
